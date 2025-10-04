@@ -1,0 +1,7 @@
+flask==2.3.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+googlesearch-python==1.2.3
+baidusearch==0.2.2
+gunicorn==21.2.0
